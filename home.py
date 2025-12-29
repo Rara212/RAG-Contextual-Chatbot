@@ -1,8 +1,8 @@
 import streamlit as st
 import backend as rag
 
-st.title("Recommendation System with RAG Pipeline")
-st.subheader("Add a subheader with more explanation if you want")
+st.title("Knowledge Niche Chatbot with RAG Pipeline")
+st.subheader("Give the knowledge to the chatbot, and then ask questions based on that knowledge.")
 st.divider()
 
 # Create a sidebar
