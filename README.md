@@ -1,5 +1,5 @@
 # RAG-Contextual-Chatbot 📚
-A chat-bot made with a RAG system to retrieve information only from what it has learned
+A chat-bot made with a RAG system that can be used with additional niche knowledge given.
 
 # How it works 🤖
 1) Give some knowledge to the app
